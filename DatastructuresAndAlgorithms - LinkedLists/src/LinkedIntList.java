@@ -1,5 +1,5 @@
 
 public class LinkedIntList {
-    public int value;
+    public int current;
     public LinkedIntList next;
 }
